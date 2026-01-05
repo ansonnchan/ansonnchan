@@ -14,7 +14,9 @@
 
 ###
 
-<p align="left">🎓 Computer engineering student at the University of British Columbia (UBC) <br>  🐨 I was born in Hong Kong but raised in Australia for 15 years <br>  ֎🇦🇮 Interested in machine learning and everything AI offers</p>
+<p align="left">🎓  Computer engineering student at the University of British Columbia (UBC) <br>  
+  🐨 I was born in Hong Kong but raised in Australia for 15 years <br>  
+  👾 Embarked on a journy to explore machine learning and everything AI offers</p>
 
 ###
 
@@ -24,7 +26,7 @@
 
 
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left"> 🖥️ Language and Frameworks </h3>
 
 ###
 
