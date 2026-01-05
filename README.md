@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">hey there , I'm Anson!👋</h1>
+<h1 align="center">hey there, I'm Anson!👋</h1>
 
 ###
 
@@ -40,6 +40,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
 </div>
+
 
 ###
 ![snake gif](https://github.com/ansonnchan/ansonnchan/blob/output/github-snake-dark.svg)
