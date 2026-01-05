@@ -16,7 +16,9 @@
 
 <p align="left">🎓 Computer engineering student at the University of British Columbia (UBC) <br>  🐨 I was born in Hong Kong but raised in Australia for 15 years <br>  ֎🇦🇮 Interested in machine learning</p>
 
-
+<div align="center">
+  <img src="https://count.getloli.com/@:ansonnchan?theme=gelbooru&padding=4&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -40,6 +42,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
 </div>
+
 
 ###
 <picture>
