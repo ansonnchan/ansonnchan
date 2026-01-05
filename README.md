@@ -17,11 +17,10 @@
 <p align="left">🎓 Computer engineering student at the University of British Columbia (UBC) <br>  🐨 I was born in Hong Kong but raised in Australia for 15 years <br>  ֎🇦🇮 Interested in machine learning and everything AI offers</p>
 
 ###
-<p align="center">
-  <img src="https://count.getloli.com/@ansonnchan?name=ansonnchan&theme=love-and-deepspace&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=400" />
-</p>
 
-
+<div align="center">
+  <img src="https://count.getloli.com/@:ansonnchan?theme=love-and-deepspace&padding=5&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
 
 
 
