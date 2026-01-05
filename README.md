@@ -16,13 +16,6 @@
 
 <p align="left">🎓 Computer engineering student at the University of British Columbia (UBC) <br>  🐨 I was born in Hong Kong but raised in Australia for 15 years <br>  ֎🇦🇮 Interested in machine learning</p>
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ansonnchan&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ansonnchan&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ansonnchan&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=ansonnchan&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -49,7 +42,7 @@
 </div>
 
 ###
-
+![snake gif](https://github.com/ansonnchan/ansonnchan/blob/output/github-snake-dark.svg)
 
 
 
