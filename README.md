@@ -16,7 +16,8 @@
 
 <p align="left">🎓  Computer engineering student at the University of British Columbia (UBC) <br>  
   🐨 I was born in Hong Kong but raised in Australia for 15 years <br>  
-  👾 Embarked on a journy to explore machine learning and everything AI offers</p>
+  👾 Embarking on a journey to explore machine learning and everything AI offers <br>
+  🐼 Check out my blog at https://ansonnchan.github.io/chanblogs/ where I post once in a blue moon </p>
 
 ###
 
