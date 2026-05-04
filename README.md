@@ -17,7 +17,7 @@
 <p align="left">🎓  Computer engineering student at the University of British Columbia (UBC) <br>  
   🐨 I was born in Hong Kong but raised in Australia for 15 years <br>  
   👾 Currently exploring machine learning <br>
-  🐼 Favorite animals are red pandas (why are they called lesser pandas :( )  </p>
+  🐼 My portfolio: www.ansonnchan.dev  </p>
 
 ###
 
