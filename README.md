@@ -1,58 +1,68 @@
-<div align="center">
-  <img height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJ4bjRqcDl0YzRqdjI3bHk1NHFwYWt2dXU5ZHV2cmRubWE4d28xaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif"  />
-</div>
+## Hi, I'm Anson
 
+🎓 I study Computer Engineering @ UBC 
+<br>
+🇭🇰 I was born in Hong Kong, but was raised in Australia for 15 years 
+<br>
+🐨 LinkedIn: https://www.linkedin.com/in/ansonnchan
+<br>
+🐼 Email: ananryry180@gmail.com
+<br>
+👾 My portfolio: https://ansonnchan.dev
+
+---
+
+ ## My Skills 
+
+Languages: Python • Java • JavaScript • TypeScript • C++ • C • SQL 
+<br>
+<br>
+Frameworks, Libraries: Node.js • Next.js • React • Django • Spring Boot • FastAPI • GraphQL
+<br>
+<br>
+Cloud, DevOps, Databases: AWS • Azure • Docker • Kubernetes • Git • PostgreSQL • Redis • MongoDB
+<br>
+<br>
+AI, ML: scikit-learn • LangGraph • LangChain • PyTorch • TensorFlow • OpenCV • HuggingFace • spaCy
+
+---
+## Projects
+
+- [Personal Portfolio](https://github.com/ansonnchan/personal-portfolio) • [Live App](https://ansonnchan.dev)
+  <br>
+  <br>
+  A terminal OS-inspired interactive portfolio. Explore projects, experience, and hidden easter eggs through command-line interactions and animated UI transitions.
+
+  There’s also a hidden open nostalgia command featuring a gallery of old childhood photos and memories.
+
+  **Tech Stack**: TypeScript, React, Tailwind CSS, FramerMotion 
+
+- [Pear Programming](https://github.com/ansonnchan/PearProgramming) • [Live App](https://pear-programming.vercel.app/)
+  
+  A real-time collaborative coding platform where users can create shared rooms, upload projects, and code together directly in the browser using CRDT-based synchronization with Yjs.
+
+  Includes an integrated AI coding assistant, **Pear AI,** capable of understanding shared workspace context, monitoring active edits, and assisting with debugging, architecture       questions, and code generation collaboratively across users.
+
+  **Tech Stack:** TypeScript, React, Tailwind CSS, Spring Boot, Yjs, Monaco Editor, Groq SDK, Redis
+
+- [vent.ai](https://github.com/ansonnchan/vent.ai) • [Live App](https://ventai-web.vercel.app/)
+
+  An ephemeral AI reflection platform designed for users to freely express their thoughts through conversations with distinct AI personalities. Conversations are intentionally temporary and wiped once the session ends.
+
+  Features multiple personalities including:
+
+  Cotton — gentle and comforting <br>
+  Aristotle — calm and philosophical <br>
+  Angel — encouraging and supportive <br>
+  Auntie Zhang — brutally honest tiger mom energy <br>
+  Venerable Ming — mysterious Chinese proverbs and chaotic wisdom <br>
+
+  Built with streamed LLM responses, client-side ephemeral state management, and Redis-based API rate limiting.
+
+  **Tech Stack:** TypeScript, React, Tailwind CSS, Framer Motion, Zustand, Groq SDK, Redis
+  
 ###
 
-###
-
-<h1 align="center">hey there, I'm Anson!👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">🎓  Computer engineering student at the University of British Columbia (UBC) <br>  
-  🐨 I was born in Hong Kong but raised in Australia for 15 years <br>  
-  👾 Currently exploring machine learning <br>
-  🐼 My portfolio: www.ansonnchan.dev  </p>
-
-###
-
-<div align="center">
-  <img src="https://count.getloli.com/@:ansonnchan?theme=love-and-deepspace&padding=5&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
-
-
-
-<h3 align="left"> 🖥️ Language and Frameworks </h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-</div>
-
-
-###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ansonnchan/ansonnchan/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ansonnchan/ansonnchan/output/pacman-contribution-graph.svg">
