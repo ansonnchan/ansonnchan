@@ -61,7 +61,7 @@ AI, ML: scikit-learn • LangGraph • LangChain • PyTorch • TensorFlow • 
 
   **Newly Added**:
   - Optional persona suggestion - recommends based on lightweight semantic/keyword scoring over the user's opening vent.
-  - Safety-Aware Routing - using distress heuristics (Groq as a fallback for analysis), recommends user switch to Angel or Cotton.
+  - Safety-Aware Routing - using heuristics (Groq as a fallback for analysis), recommends user switch to Angel or Cotton.
   - Context Compression - if sessions grow long, summarize older vents and responses (past 5) into temporary memory.
   
   **Tech Stack:** TypeScript, React, Tailwind CSS, Framer Motion, Zustand, Groq SDK, Redis
