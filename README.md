@@ -65,7 +65,9 @@ AI, ML: scikit-learn • LangGraph • LangChain • PyTorch • TensorFlow • 
   - Context Compression - if sessions grow long, summarize older vents and responses (past 5) into temporary memory.
   
   **Tech Stack:** TypeScript, React, Tailwind CSS, Framer Motion, Zustand, Groq SDK, Redis
-  
+
+  - **COMING SOON** YumCha
+    An app that helps users learn common Cantonese phrases and etiquette. Practice with voice detection (Azure). 
 ###
 
 <picture>
