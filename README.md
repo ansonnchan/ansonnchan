@@ -60,14 +60,14 @@ AI, ML: scikit-learn • LangGraph • LangChain • PyTorch • TensorFlow • 
   Built with streamed LLM responses, client-side ephemeral state management, and Redis-based API rate limiting.
 
   **Newly Added**:
-  - Optional persona suggestion - recommends based on lightweight semantic/keyword scoring over the user's opening vent.
-  - Safety-Aware Routing - using heuristics (Groq as a fallback for analysis), recommends user switch to Angel or Cotton.
-  - Context Compression - if sessions grow long, summarize older vents and responses (past 5) into temporary memory.
+   - Optional persona suggestion - recommends based on lightweight semantic/keyword scoring over the user's opening vent.
+   - Safety-Aware Routing - using heuristics (Groq as a fallback for analysis), recommends user switch to Angel or Cotton.
+   - Context Compression - if sessions grow long, summarize older vents and responses (past 5) into temporary memory.
   
   **Tech Stack:** TypeScript, React, Tailwind CSS, Framer Motion, Zustand, Groq SDK, Redis
 
-  - **COMING SOON** YumCha
-    An app that helps users learn common Cantonese phrases and etiquette. Practice with voice detection (Azure). 
+ **COMING SOON** <br>
+- YumCha - an app that helps users learn common Cantonese phrases and etiquette. Practice with voice detection (Azure). 
 ###
 
 <picture>
