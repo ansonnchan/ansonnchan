@@ -66,8 +66,7 @@ AI, ML: scikit-learn • LangGraph • LangChain • PyTorch • TensorFlow • 
   
   **Tech Stack:** TypeScript, React, Tailwind CSS, Framer Motion, Zustand, Groq SDK, Redis
 
- **COMING SOON** <br>
-- YumCha - an app that helps users learn common Cantonese phrases and etiquette. Practice with voice detection (Azure). 
+
 ###
 
 <picture>
