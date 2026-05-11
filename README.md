@@ -14,7 +14,7 @@
 
  ## My Skills 
 
-Languages: Python • Java • JavaScript • TypeScript • C++ • C • SQL 
+Languages: Python • Java • JavaScript • TypeScript • C++ • SQL 
 <br>
 <br>
 Frameworks, Libraries: Node.js • Next.js • React • Django • Spring Boot • FastAPI • GraphQL
