@@ -67,6 +67,10 @@ AI, ML: scikit-learn • LangGraph • LangChain • PyTorch • TensorFlow • 
   **Tech Stack:** TypeScript, React, Tailwind CSS, Framer Motion, Zustand, Groq SDK, Redis
 
 
+**Coming Soon**
+- The Wallfacer Project - a civilization deduction game based on The Three Body (三体) by Liu Cixin (刘慈欣)
+
+
 ###
 
 <picture>
