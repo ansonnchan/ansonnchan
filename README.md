@@ -43,7 +43,7 @@ AI, ML: scikit-learn • LangGraph • LangChain • PyTorch • TensorFlow • 
 
   Includes an integrated AI coding assistant, **Pear AI,** capable of understanding shared workspace context, monitoring active edits, and assisting with debugging, architecture       questions, and code generation collaboratively across users.
 
-  **Tech Stack:** TypeScript, React, Tailwind CSS, Spring Boot, Yjs, Monaco Editor, Groq SDK, Redis
+  **Tech Stack:** TypeScript, React, Tailwind CSS, Spring Boot, Yjs, Monaco Editor, Groq, Redis
 
 - [vent.ai](https://github.com/ansonnchan/vent.ai) • [Live App](https://ventai-web.vercel.app/)
 
@@ -64,11 +64,14 @@ AI, ML: scikit-learn • LangGraph • LangChain • PyTorch • TensorFlow • 
    - Safety-Aware Routing - using heuristics (Groq as a fallback for analysis), recommends user switch to Angel or Cotton.
    - Context Compression - if sessions grow long, summarize older vents and responses (past 5) into temporary memory.
   
-  **Tech Stack:** TypeScript, React, Tailwind CSS, Framer Motion, Zustand, Groq SDK, Redis
+  **Tech Stack:** TypeScript, React, Tailwind CSS, Framer Motion, Zustand, Groq, Redis
 
+- [The Wallfacer Project](https://github.com/ansonnchan/dark-forest) • [Live App](https://wallfacer-project.vercel.app/)
 
-**Coming Soon**
-- The Wallfacer Project - a civilization deduction game based on The Three Body (三体) by Liu Cixin (刘慈欣)
+A hidden-state (alien) civilization deduction game, inspired by The Three Body (三体) by Liu Cixin (刘慈欣). Players will question, investigate, and probe four alien civilizations and analyze clues, transmissions and signals in order to identify the secretly hostile civilization. You can
+think of it as a cosmic mafia game with the stakes being not $5 or buying bubble tea, but humanity's survival. 
+
+**Tech Stack:** Python, React, TypeScript, PostgreSQL, FastAPI, Groq, SQLAlchemy 
 
 
 ###
