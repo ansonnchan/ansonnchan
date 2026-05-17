@@ -28,12 +28,10 @@ AI, ML: scikit-learn • LangGraph • LangChain • PyTorch • TensorFlow • 
 ---
 ## Projects
 
-- [Personal Portfolio](https://github.com/ansonnchan/personal-portfolio) • [Live App](https://ansonnchan.dev)
+- [Personal Portfolio](https://github.com/ansonnchan/portfolio) • [Live App](https://ansonnchan.dev)
   <br>
   <br>
-  A terminal OS-inspired interactive portfolio. Explore projects, experience, and hidden easter eggs through command-line interactions and animated UI transitions.
-
-  There’s also a hidden open nostalgia command featuring a gallery of old childhood photos and memories.
+  My personal portfolio. Everything you need to know about me :)
 
   **Tech Stack**: TypeScript, React, Tailwind CSS, FramerMotion 
 
