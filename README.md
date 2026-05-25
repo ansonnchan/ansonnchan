@@ -72,15 +72,4 @@ think of it as a cosmic mafia game with the stakes being not $5 or buying bubble
 **Tech Stack:** Python, React, TypeScript, PostgreSQL, FastAPI, Groq, SQLAlchemy 
 
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ansonnchan/ansonnchan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ansonnchan/ansonnchan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ansonnchan/ansonnchan/output/pacman-contribution-graph.svg">
-</picture>
-
-
-
-
 
