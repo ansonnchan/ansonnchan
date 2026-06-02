@@ -2,6 +2,8 @@
 
 🎓 I study Computer Engineering @ UBC 
 <br>
+💼 incoming swe intern @ scalepad s26
+<br>
 🇭🇰 I was born in Hong Kong, but was raised in Australia for 15 years 
 <br>
 🐨 LinkedIn: https://www.linkedin.com/in/ansonnchan
