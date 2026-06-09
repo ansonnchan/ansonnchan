@@ -1,20 +1,25 @@
-## Hi, I'm Anson
-
-🎓 I study Computer Engineering @ UBC 
+Hi, I'm Anson
+---
+🎓 Studying Computer Engineering @ UBC 
 <br>
-💼 swe intern @ scalepad s26
+🇭🇰 Born in Hong Kong, but was raised in Australia for 15 years 
 <br>
-🇭🇰 I was born in Hong Kong, but was raised in Australia for 15 years 
-<br>
-🐨 LinkedIn: https://www.linkedin.com/in/ansonnchan
+🐨 LinkedIn: [ansonnchan](https://www.linkedin.com/in/ansonnchan)
 <br>
 🐼 Email: ananryry180@gmail.com
 <br>
-👾 My portfolio: https://ansonnchan.dev
+👾 My portfolio: [ansonnchan.dev](https://ansonnchan.dev)
+<br>
+<br>
+<br>
+𝗡𝗼𝘄 𝗽𝗹𝗮𝘆𝗶𝗻𝗴: 
+<br>
+<br> ["diverseddie (舵) - procrastination (拖延症)"
+<br> 01:23 ━━━━●───── 02:26
+<br>ㅤ ㅤ ㅤ ㅤ ◁ㅤ ❚❚ ㅤ▷ ㅤㅤ↻﻿ ♡
 
 ---
-
- ## My Skills 
+ ### My Skills 
 
 Languages: Python • Java • JavaScript • TypeScript • C++ • SQL 
 <br>
@@ -28,7 +33,7 @@ Cloud, DevOps, Databases: AWS • Azure • Docker • Kubernetes • Git • Po
 AI, ML: scikit-learn • LangGraph • LangChain • PyTorch • TensorFlow • OpenCV • HuggingFace • spaCy
 
 ---
-## Projects
+### Projects
 
 - [Personal Portfolio](https://github.com/ansonnchan/portfolio) • [Live App](https://ansonnchan.dev)
   <br>
