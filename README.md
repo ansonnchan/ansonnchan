@@ -1,13 +1,16 @@
 ### Hey there 👋
 
-I'm Anson, a Computer Engineering student @ UBC 
+💻 I'm Anson, a Computer Engineering student @ UBC 
 <br>
+🇭🇰 I was born in Hong Kong, but was raised in Australia for 15 years 
 <br>
-I was born in Hong Kong, but was raised in Australia for 15 years 🇭🇰🇦🇺
+🎾 I love playing racket sports such as badminton, tennis, table tennis and even pickeball 
 <br>
-<!-- Markdown -->
+🖥️ In my free time, I love watching C-dramas and K-dramas. Right now, I'm watching **When I Fly Towards You** and **Night Has Come** (I know, such a genre difference but they're both peak!!)
+<hr>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+### Listening to this Banger!
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=xj0yv4ymid67kjhii6nlsk0lf&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=xj0yv4ymid67kjhii6nlsk0lf&redirect=true)
 
 ### Currently...
 - A software engineering intern @ [ScalePad](https://www.scalepad.com/)
