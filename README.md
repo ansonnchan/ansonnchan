@@ -1,5 +1,7 @@
 <h2> Hey there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
+<img width="350" height="350" alt="technology student" src="https://github.com/user-attachments/assets/3f2e7212-3f6d-4032-be19-e174f6c3a322" />
+
 ### A little bit about me...
 
 💻 I'm Anson, a Computer Engineering student @ UBC 
