@@ -14,7 +14,7 @@
 <hr>
 
 ### Listening to this Banger!
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=xj0yv4ymid67kjhii6nlsk0lf&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=xj0yv4ymid67kjhii6nlsk0lf&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=xj0yv4ymid67kjhii6nlsk0lf&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=xj0yv4ymid67kjhii6nlsk0lf&redirect=true)
 
 ### Currently...
 - A software engineering intern @ [ScalePad](https://www.scalepad.com/)
