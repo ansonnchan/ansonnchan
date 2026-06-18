@@ -29,6 +29,8 @@
 - Aiming to be a TA for math or computer science courses 
 - Visit New York or San Francisco (and work there after I graduate)
 - Finish my system design roadmap
+- Finish my design patterns roadmap 
+- Join a design team @ UBC
 
 ### Projects 
 - [Pear Programming](https://pear-programming.vercel.app/), a collaborative code editor (think Google Docs but for programming) 🍐
