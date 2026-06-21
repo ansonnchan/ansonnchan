@@ -13,7 +13,7 @@
 🖥️ In my free time, I love watching C-dramas and K-dramas. Right now, I'm watching **When I Fly Towards You** and **Night Has Come** (I know, such a genre difference but they're both peak!!)
 <hr>
 
-### Listening to this Banger!
+### Listening to...
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=xj0yv4ymid67kjhii6nlsk0lf&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=xj0yv4ymid67kjhii6nlsk0lf&redirect=true)
 
 ### Currently...
