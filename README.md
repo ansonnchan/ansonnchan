@@ -35,7 +35,6 @@
 ### Projects 
 - [Pear Programming](https://pear-programming.vercel.app/), a collaborative code editor (think Google Docs but for programming) 🍐
 - [vent.ai](https://ventai-web.vercel.app/), an AI-powered journalling (venting?) platform supporting multiple AI personalities 😡
-- [Hotaru (Coming Soon)](https://github.com/ansonnchan/hotaru), a desktop companion to warn you to take breaks 🏮✨
 
 ### Find Me Here...
 - [LinkedIn](https://www.linkedin.com/in/ansonnchan/)
