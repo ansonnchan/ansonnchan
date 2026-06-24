@@ -16,6 +16,8 @@
 ### Listening to...
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=xj0yv4ymid67kjhii6nlsk0lf&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=xj0yv4ymid67kjhii6nlsk0lf&redirect=true)
 
+---
+
 ### Currently...
 - A software engineering intern @ [ScalePad](https://www.scalepad.com/)
 - Building an amazing project (coming soon!)
@@ -34,6 +36,7 @@
 ### Projects 
 - [Pear Programming](https://pear-programming.vercel.app/), a collaborative code editor (think Google Docs but for programming) 🍐
 - [vent.ai](https://ventai-web.vercel.app/), an AI-powered journalling (venting?) platform supporting multiple AI personalities 😡
+- [cooked.exe](https://github.com/ansonnchan/cooked.exe), a face-detection webapp that stops CS students from doomscrolling and being unemployed 🍚
 
 ### Find Me Here...
 - [LinkedIn](https://www.linkedin.com/in/ansonnchan/)
