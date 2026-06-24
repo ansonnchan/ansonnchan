@@ -10,7 +10,7 @@
 <br>
 🎾 I love playing racket sports such as badminton, tennis, table tennis and even pickeball 
 <br>
-🖥️ In my free time, I love watching C-dramas and K-dramas. Right now, I'm watching **When I Fly Towards You** and **Night Has Come** (PEAK!!)
+🖥️ In my free time, I love watching C-dramas and K-dramas. Right now, I'm watching **When I Fly Towards You** and **Night Has Come**
 <hr>
 
 ### Listening to...
