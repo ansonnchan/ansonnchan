@@ -8,7 +8,7 @@
 <br>
 🇭🇰 I was born in Hong Kong, but was raised in Australia for 15 years 
 <br>
-🎾 I love playing racket sports such as badminton, tennis, table tennis and even pickeball 
+🎾 I love playing racket sports such as badminton, tennis, table tennis, and even pickleball 
 <br>
 🖥️ In my free time, I love watching C-dramas and K-dramas. Right now, I'm watching **When I Fly Towards You** and **Night Has Come**
 <hr>
