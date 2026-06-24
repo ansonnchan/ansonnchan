@@ -36,7 +36,7 @@
 ### Projects 
 - [Pear Programming](https://pear-programming.vercel.app/), a collaborative code editor (think Google Docs but for programming) 🍐
 - [vent.ai](https://ventai-web.vercel.app/), an AI-powered journalling (venting?) platform supporting multiple AI personalities 😡
-- [cooked.exe (Coming Soon!)](https://github.com/ansonnchan/cooked.exe), a face-detection program that stops CS students from doomscrolling and being unemployed 🍚
+- [cooked.exe (Coming Soon!)](https://github.com/ansonnchan/cooked.exe), a face-detection program that stops students from doomscrolling and being unemployed 🍚
 
 ### Find Me Here...
 - LinkedIn: [in/ansonnchan](https://www.linkedin.com/in/ansonnchan/)
