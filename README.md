@@ -28,7 +28,7 @@
 - Scaled backend infrastructure at [Borrowd](https://borrowd.org/)
 
 ### In The Future...
-- Aiming to be a TA for math or computer science courses 
+- Be a TA for math or computer science courses 
 - Visit NY & SF
 - Finish my system design and design patterns roadmaps
 - Join a design team @ UBC
@@ -36,11 +36,12 @@
 ### Projects 
 - [Pear Programming](https://pear-programming.vercel.app/), a collaborative code editor (think Google Docs but for programming) 🍐
 - [vent.ai](https://ventai-web.vercel.app/), an AI-powered journalling (venting?) platform supporting multiple AI personalities 😡
-- [cooked.exe (Coming Soon!)](https://github.com/ansonnchan/cooked.exe), a face-detection webapp that stops CS students from doomscrolling and being unemployed 🍚
+- [cooked.exe (Coming Soon!)](https://github.com/ansonnchan/cooked.exe), a face-detection program that stops CS students from doomscrolling and being unemployed 🍚
 
 ### Find Me Here...
 - [LinkedIn](https://www.linkedin.com/in/ansonnchan/)
 - [Personal Portfolio](https://www.ansonnchan.dev/)
+- [Email](mailto:ananryry180@gmail.com)
 
 
 
