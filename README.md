@@ -39,9 +39,9 @@
 - [cooked.exe (Coming Soon!)](https://github.com/ansonnchan/cooked.exe), a face-detection program that stops CS students from doomscrolling and being unemployed 🍚
 
 ### Find Me Here...
-- [LinkedIn](https://www.linkedin.com/in/ansonnchan/)
-- [Personal Portfolio](https://www.ansonnchan.dev/)
-- [Email](mailto:ananryry180@gmail.com)
+- LinkedIn: [in/ansonnchan](https://www.linkedin.com/in/ansonnchan/)
+- Personal Portfolio: www.ansonnchan.dev
+- Email: ananryry180@gmail.com
 
 
 
