@@ -37,7 +37,7 @@
 - [Pear Programming](https://pear-programming.vercel.app/), a collaborative code editor (think Google Docs but for programming) 🍐
 - [vent.ai](https://ventai-web.vercel.app/), an AI-powered journalling (venting?) platform supporting multiple AI personalities 😡
 - [cooked](https://github.com/ansonnchan/cooked), a face-detection program that stops students from doomscrolling and being unemployed 🍚
-- [puzzled.exe (coming soon!)](https://github.com/ansonnchan/puzzled.exe), a computer vision game inspired by Wii Party's [Friendly Face-off minigame](https://wiisports.fandom.com/wiki/Friendly_Face-Off) 🫣
+- [puzzled.exe](https://github.com/ansonnchan/puzzled.exe), a computer vision game inspired by Wii Party's [Friendly Face-off minigame](https://wiisports.fandom.com/wiki/Friendly_Face-Off) 🫣
 
 ### Find Me Here...
 - LinkedIn: [in/ansonnchan](https://www.linkedin.com/in/ansonnchan/)
