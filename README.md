@@ -35,7 +35,7 @@
 
 ### Projects 
 - [Pear Programming](https://pear-programming.vercel.app/), a collaborative code editor (think Google Docs but for programming) 🍐
-- [vent.ai](https://ventai-web.vercel.app/), an AI-powered journalling (venting?) platform supporting multiple AI personalities 😡
+- [vent.ai](https://ventai-web.vercel.app/), an AI-powered journalling (venting?) platform supporting multiple AI personalities 😔
 
 
 ### Find Me Here...
