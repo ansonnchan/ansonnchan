@@ -34,7 +34,7 @@
 - Join a design team @ UBC
 
 ### Projects...
-- [Personal Portfolio](https://ansonnchan.dev), my personal website 🏠
+- [Personal Portfolio](https://ansonnchan.dev), my personal website so you can know all about me (also includes blogs and random shower thoughts) 🏠
 - [Pear Programming](https://pear-programming.vercel.app/), a collaborative code editor (think Google Docs but for programming) 🍐
 - [vent.ai](https://ventai-web.vercel.app/), an AI-powered journalling (venting?) platform supporting multiple AI personalities 😔
 
