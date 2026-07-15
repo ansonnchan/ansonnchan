@@ -10,7 +10,7 @@
 <br>
 🎾 I love playing racket sports such as badminton, tennis, table tennis, and even pickleball 
 <br>
-🖥️ In my free time, I love watching C-dramas and K-dramas. Right now, I'm watching **When I Fly Towards You** and **Night Has Come**
+🎺 I also play the trumpet and violin. One of my biggest wishes while I'm at UBC is to join their symphony orchestra
 <hr>
 
 ### Listening to...
