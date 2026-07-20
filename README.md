@@ -37,6 +37,7 @@
 - [Personal Portfolio](https://ansonnchan.dev), my personal website 🏠
 - [Pear Programming](https://pear-programming.vercel.app/), a collaborative code editor (think Google Docs but for programming) 🍐
 - [hear me out](https://hear-me-out-web.vercel.app/), an AI-powered venting platform for you to crash out (we support multiple personalities) 😔
+- [CorpoLingo (Coming Soon!)](https://github.com/ansonnchan/CorpoLingo) 🤫 🤫 🤫 
 
 
 ### Find Me Here...
