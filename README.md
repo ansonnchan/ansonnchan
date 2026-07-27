@@ -30,7 +30,7 @@
 ### In The Future...
 - Be a TA for math or computer science courses 
 - Visit NY & SF
-- Finish my system design and design patterns roadmaps
+- Finish my many roadmaps - System Design, Design Patterns, Software Engineering, AI Engineering and many more 
 - Join a design team @ UBC
 
 ### Projects...
