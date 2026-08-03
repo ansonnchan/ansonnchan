@@ -13,9 +13,6 @@
 🎺 I also play the trumpet and violin. One of my biggest wishes while I'm at UBC is to join their symphony orchestra
 <hr>
 
-### Listening to...
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=xj0yv4ymid67kjhii6nlsk0lf&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=xj0yv4ymid67kjhii6nlsk0lf&redirect=true)
-
 ---
 
 ### Currently...
