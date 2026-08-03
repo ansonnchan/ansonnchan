@@ -13,8 +13,6 @@
 🎺 I also play the trumpet and violin. One of my biggest wishes while I'm at UBC is to join their symphony orchestra
 <hr>
 
----
-
 ### Currently...
 - A software engineering intern @ [ScalePad](https://www.scalepad.com/)
 - Building an amazing project (coming soon!)
@@ -37,14 +35,33 @@
 - [Dead Code Explorer](https://github.com/ansonnchan/dead-code-explorer), a VS Code extension that helps you identify dead code from your project ☠️
 
 
-
 ### Find Me Here...
 - LinkedIn: [in/ansonnchan](https://www.linkedin.com/in/ansonnchan/)
 - Personal Portfolio: www.ansonnchan.dev
 - Email: ananryry180@gmail.com
 
-
-
+###
+<details>
+  <summary><b>🐧 Click here for Pingu pictures!</b></summary>
+  <br />
+  <table>
+    <tr>
+      <td align="center"><img src="assets/Awww-.jpeg" width="200" /></td>
+      <td align="center"><img src="assets/Penguin%20Shopping.jpeg" width="200" /></td>
+      <td align="center"><img src="assets/_.jpeg" width="200" /></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="assets/_%20(1).jpeg" width="200" /></td>
+      <td align="center"><img src="assets/_%20(2).jpeg" width="200" /></td>
+      <td align="center"><img src="assets/_%20(3).jpeg" width="200" /></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="assets/_%20(4).jpeg" width="200" /></td>
+      <td align="center"><img src="assets/_%20(5).jpeg" width="200" /></td>
+      <td align="center"><img src="assets/_%20(6).jpeg" width="200" /></td>
+    </tr>
+  </table>
+</details>
 
 
 
