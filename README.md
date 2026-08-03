@@ -13,14 +13,15 @@
 
 ### Currently...
 - A software engineering intern @ [ScalePad](https://www.scalepad.com/)
-- Building an amazing project (coming soon!)
-- Learning Chinese (this is not coming soon!)
+- On Episode 294 of Detective Conan 🎀 
+- Reading "*The Tunnel to Summer, the Exit of Goodbyes*" by Mei Hachimoku
 
 ### Previously...
 - Worked on RAG optimization at the [University of South Australia](https://adelaide.edu.au/) (now Adelaide University)
 - Scaled backend infrastructure at [Borrowd](https://borrowd.org/)
 
 ### In The Future...
+- Incoming SWE @ Atria Winter 2027
 - Be a TA for math or computer science courses 
 - Visit NY & SF
 - Finish my many roadmaps - System Design, Design Patterns, Software Engineering, AI Engineering and many more 
