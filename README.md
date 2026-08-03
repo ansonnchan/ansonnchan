@@ -8,7 +8,7 @@
 <br>
 🎾 I love playing racket sports such as badminton, tennis, table tennis, and even pickleball 
 <br>
-🎺 I also play the trumpet and violin. One of my biggest wishes while I'm at UBC is to join their symphony orchestra
+🐧 Penguins are my favorite animal **(noot noot)**
 <hr>
 
 ### Currently...
