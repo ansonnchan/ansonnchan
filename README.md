@@ -17,9 +17,9 @@
 - Reading "*The Tunnel to Summer, the Exit of Goodbyes*" by Mei Hachimoku
 
 ### Previously...
-- Worked on RAG optimization at the [University of South Australia](https://adelaide.edu.au/) (now Adelaide University)
-- Scaled backend infrastructure at [Borrowd](https://borrowd.org/)
-- A folding demon @ GAP and teaching young children valuable life lessons @ Kumon (totally not trauma)
+- Worked on **RAG optimization** at the University of South Australia (now Adelaide University)
+- Scaled **backend infrastructure** at Borrow'd
+- A **folding demon** @ GAP and teaching children **valuable life lessons** @ Kumon (totally not trauma)
 
 ### In The Future...
 - Incoming SWE @ Atria Winter 2027
