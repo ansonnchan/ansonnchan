@@ -8,7 +8,7 @@
 <br>
 🎾 I love playing racket sports such as badminton, tennis, table tennis, and even pickleball 
 <br>
-🐧 Penguins are my favorite animal **(noot noot)**
+🐧 Penguins are my favorite animals **(noot noot)**
 <hr>
 
 ### Currently...
