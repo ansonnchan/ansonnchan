@@ -1,5 +1,7 @@
 <h2> Hey there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
+<img width="250" height="300" alt="penguin_swarm" src="https://github.com/user-attachments/assets/7e8a8049-fd18-4bc7-8413-7490176cdaf9" />
+
 ### A little bit about me...
 
 💻 I'm Anson, a Computer Engineering student @ UBC 
