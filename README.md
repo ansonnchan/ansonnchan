@@ -12,9 +12,9 @@
 <hr>
 
 ### Currently...
-- A software engineering intern @ [ScalePad](https://www.scalepad.com/)
+- A software engineering intern @ ScalePad
 - On Episode 294 of Detective Conan 🎀 
-- Reading "*The Tunnel to Summer, the Exit of Goodbyes*" by Mei Hachimoku
+- Reading "*The Tunnel to Summer, the Exit of Goodbyes*" by Mei Hachimoku ⏳
 
 ### Previously...
 - Worked on **RAG optimization** at the University of South Australia (now Adelaide University)
