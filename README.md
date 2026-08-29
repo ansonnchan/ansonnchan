@@ -21,7 +21,7 @@
 ### Previously...
 - Worked on **RAG optimization** at the University of South Australia (now Adelaide University)
 - Scaled **backend infrastructure** at Borrow'd
-- A **folding demon** @ GAP and teaching children **valuable life lessons** @ Kumon (totally not trauma)
+- A **folding demon** @ GAP
 
 ### In The Future...
 - Incoming SWE @ Atria Winter 2027
