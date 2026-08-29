@@ -24,11 +24,8 @@
 - A **folding demon** @ GAP
 
 ### In The Future...
-- Incoming SWE @ Atria Winter 2027
 - Be a TA for math or computer science courses 
 - Visit NY & SF
-- Finish my many roadmaps - System Design, Design Patterns, Software Engineering, AI Engineering and many more 
-- Join a design team @ UBC
 
 ### Projects...
 - [Personal Portfolio](https://ansonnchan.dev), my personal website 🐧
