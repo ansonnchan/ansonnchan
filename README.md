@@ -37,7 +37,7 @@
 ### Find Me Here...
 - LinkedIn: [in/ansonnchan](https://www.linkedin.com/in/ansonnchan/)
 - Personal Portfolio: www.ansonnchan.dev
-- Email: ananryry180@gmail.com
+- Email: ac1800@student.ubc.ca
 
 ###
 <details>
