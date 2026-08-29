@@ -15,7 +15,7 @@
 
 ### Currently...
 - A software engineering intern @ ScalePad
-- On Episode 294 of Detective Conan 🎀 
+- Rewatching "*Cyberpunk: Edgerunners*" because it's genuinely so good 🦾 
 - Reading "*The Tunnel to Summer, the Exit of Goodbyes*" by Mei Hachimoku ⏳
 
 ### Previously...
