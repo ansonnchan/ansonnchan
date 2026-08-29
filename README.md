@@ -34,7 +34,7 @@
 
 ###
 <details>
-  <summary><b>⚡ Click here for Cyberpunk: EdgeRunners pictures! ⚡</b></summary>
+  <summary><b>⚡ Click here for Cyberpunk: Edgerunners pictures! ⚡</b></summary>
   <br />
  <table>
   <tr>
