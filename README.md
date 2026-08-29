@@ -11,13 +11,13 @@
 <br>
 🎾 I love playing racket sports such as badminton, tennis, table tennis, and even pickleball 
 <br>
-🐧 Penguins are my favorite animals **(noot noot)**
+🦾 Dystopian fiction, particularly the cyberpunk genre, is my favorite (by far)
 <hr>
 
 ### Currently...
 - A software engineering intern @ ScalePad
 - Rewatching "*Cyberpunk: Edgerunners*" because it's genuinely so good 🦾 
-- Reading "*The Tunnel to Summer, the Exit of Goodbyes*" by Mei Hachimoku ⏳
+
 
 ### Previously...
 - Worked on **RAG optimization** at the University of South Australia (now Adelaide University)
@@ -29,7 +29,6 @@
 
 ### Find Me Here...
 - LinkedIn: [in/ansonnchan](https://www.linkedin.com/in/ansonnchan/)
-- Personal Portfolio: www.ansonnchan.dev
 - Email: ac1800@student.ubc.ca
 
 ###
