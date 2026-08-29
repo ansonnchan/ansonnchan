@@ -15,13 +15,14 @@
 <hr>
 
 ### Currently...
-- A software engineering intern @ ScalePad
+- A software engineering intern @ ScalePad 🌱
 - Rewatching "*Cyberpunk: Edgerunners*" because it's genuinely so good 🦾 
 
 
 ### Previously...
-- Worked on **RAG optimization** at the University of South Australia (now Adelaide University)
 - Scaled **backend infrastructure** at Borrow'd
+- Folding demon at GAP
+- Drill sergeant at Kumon (jk I was a centre assistant)
 
 ### In The Future...
 - Be a TA for math or computer science courses 
