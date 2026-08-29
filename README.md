@@ -37,19 +37,19 @@
   <br />
  <table>
   <tr>
-    <td align="center"><img src="assets/cyberpunk/rebecca-1.jpg" width="300" height="200" style="object-fit: cover;" /></td>
-    <td align="center"><img src="assets/cyberpunk/rebecca-2.jpg" width="300" height="200" style="object-fit: cover;" /></td>
-    <td align="center"><img src="assets/cyberpunk/rebecca-3.jpg" width="300" height="200" style="object-fit: cover;" /></td>
+    <td align="center"><img src="assets/cyberpunk/rebecca-1.jpg" width="200" height="200" style="object-fit: cover;" /></td>
+    <td align="center"><img src="assets/cyberpunk/rebecca-2.jpg" width="200" height="200" style="object-fit: cover;" /></td>
+    <td align="center"><img src="assets/cyberpunk/rebecca-3.jpg" width="200" height="200" style="object-fit: cover;" /></td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/cyberpunk/david-1.jpg" width="300" height="200" style="object-fit: cover;" /></td>
-    <td align="center"><img src="assets/cyberpunk/david-2.jpg" width="300" height="200" style="object-fit: cover;" /></td>
-    <td align="center"><img src="assets/cyberpunk/david-3.jpg" width="300" height="200" style="object-fit: cover;" /></td>
+    <td align="center"><img src="assets/cyberpunk/david-1.jpg" width="200" height="200" style="object-fit: cover;" /></td>
+    <td align="center"><img src="assets/cyberpunk/david-2.jpg" width="200" height="200" style="object-fit: cover;" /></td>
+    <td align="center"><img src="assets/cyberpunk/david-3.jpg" width="200" height="200" style="object-fit: cover;" /></td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/cyberpunk/lucy-1.jpg" width="300" height="200" style="object-fit: cover;" /></td>
-    <td align="center"><img src="assets/cyberpunk/lucy-2.jpg" width="300" height="200" style="object-fit: cover;" /></td>
-    <td align="center"><img src="assets/cyberpunk/lucy-3.jpg" width="300" height="200" style="object-fit: cover;" /></td>
+    <td align="center"><img src="assets/cyberpunk/lucy-1.jpg" width="200" height="200" style="object-fit: cover;" /></td>
+    <td align="center"><img src="assets/cyberpunk/lucy-2.jpg" width="200" height="200" style="object-fit: cover;" /></td>
+    <td align="center"><img src="assets/cyberpunk/lucy-3.jpg" width="200" height="200" style="object-fit: cover;" /></td>
   </tr>
 </table>
 </details>
