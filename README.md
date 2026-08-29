@@ -21,18 +21,10 @@
 ### Previously...
 - Worked on **RAG optimization** at the University of South Australia (now Adelaide University)
 - Scaled **backend infrastructure** at Borrow'd
-- A **folding demon** @ GAP
 
 ### In The Future...
 - Be a TA for math or computer science courses 
-- Visit NY & SF
-
-### Projects...
-- [Personal Portfolio](https://ansonnchan.dev), my personal website 🐧
-- [Pear Programming](https://pear-programming.vercel.app/), a collaborative code editor (think Google Docs but for programming) 🍐
-- [Jukebox](https://my-jukebox-web.vercel.app/), an AI-powered venting platform for you to crash out (we support multiple personalities) 😔
-- [Dead Code Explorer](https://github.com/ansonnchan/dead-code-explorer), a VS Code extension that helps you identify dead code from your project ☠️
-
+- Travel to New York 
 
 ### Find Me Here...
 - LinkedIn: [in/ansonnchan](https://www.linkedin.com/in/ansonnchan/)
