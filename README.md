@@ -16,6 +16,7 @@
 
 ### Currently...
 - A software engineering intern @ ScalePad 🌱
+- Reading "*The Pig That Wants To Be Eaten*" by *Julian Baggini* 
 - Rewatching "*Cyberpunk: Edgerunners*" because it's genuinely so good 🦾 
 
 
