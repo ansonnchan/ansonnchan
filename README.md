@@ -19,15 +19,10 @@
 - Reading "*The Pig That Wants To Be Eaten*" by *Julian Baggini* 
 - Rewatching "*Cyberpunk: Edgerunners*" because it's genuinely so good 🦾 
 
-
 ### Previously...
 - Scaled **backend infrastructure** at Borrow'd
 - Folding demon at GAP
 - Drill sergeant at Kumon (jk I was a centre assistant)
-
-### In The Future...
-- Be a TA for math or computer science courses 
-- Travel to New York 
 
 ### Find Me Here...
 - LinkedIn: [in/ansonnchan](https://www.linkedin.com/in/ansonnchan/)
