@@ -27,7 +27,7 @@
 ### Find Me Here...
 - LinkedIn: [in/ansonnchan](https://www.linkedin.com/in/ansonnchan/)
 - Email: ac1800@student.ubc.ca
-- Personal Website: [ansonnchan.dev](www.ansonnchan.dev)
+- Personal Website: [ansonnchan.dev](https://www.ansonnchan.dev/)
 
 
 
