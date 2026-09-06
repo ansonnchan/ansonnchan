@@ -1,6 +1,6 @@
 <h2> Hey there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-  <img src="assets/rebecca-beer.jpeg" alt="Rebecca Beer" width="350" height="250" style="object-fit: cover;" />
+  <img src="assets/rebecca-beer.jpeg" alt="Rebecca Beer" width="350" height="300" style="object-fit: cover;" />
 
 
 ### A little bit about me...
