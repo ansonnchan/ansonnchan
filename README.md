@@ -16,7 +16,7 @@
 
 ### Currently...
 - A software engineering intern @ ScalePad 🌱
-- Reading "*The Pig That Wants To Be Eaten*" by *Julian Baggini* 
+- Reading "*Kafka on the Shore* (海辺のカフカ)"  by Haruki Murakami (村上 春樹)   
 - Rewatching "*Cyberpunk: Edgerunners*" because it's genuinely so good 🦾 
 
 ### Previously...
