@@ -16,6 +16,7 @@
 
 ### Currently...
 - A software engineering intern @ ScalePad 🌱
+- A software dev @ UBC Launch Pad  <!-- Attach a link to the Figma for SWE Project  --> 
 - Reading "*Kafka on the Shore* (海辺のカフカ)"  by Haruki Murakami (村上 春樹)   
 - Rewatching "*Cyberpunk: Edgerunners*" because it's genuinely so good 🦾 
 
@@ -26,7 +27,7 @@
 
 ### Find Me Here...
 - LinkedIn: [in/ansonnchan](https://www.linkedin.com/in/ansonnchan/)
-- Email: ac1800@student.ubc.ca
+- Email: ansonnchan95@gmail.com
 - Personal Website: [ansonnchan.dev](https://www.ansonnchan.dev/)
 
 
