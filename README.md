@@ -18,12 +18,7 @@
 - A software engineering intern @ ScalePad 🌱
 - A software dev @ UBC Launch Pad  <!-- Attach a link to the Figma for SWE Project  --> 
 - Reading "*Kafka on the Shore* (海辺のカフカ)"  by Haruki Murakami (村上 春樹)   
-- Rewatching "*Cyberpunk: Edgerunners*" because it's genuinely so good 🦾 
 
-### Previously...
-- Scaled **backend infrastructure** at Borrow'd
-- Folding demon at GAP
-- Drill sergeant at Kumon (jk I was a centre assistant)
 
 ### Find Me Here...
 - LinkedIn: [in/ansonnchan](https://www.linkedin.com/in/ansonnchan/)
