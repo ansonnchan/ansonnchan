@@ -20,6 +20,15 @@
 - Email: ansonnchan95@gmail.com
 - Personal Website: [ansonnchan.dev](https://www.ansonnchan.dev/)
 
-<p align="center">
-  <img src="koi/koi.gif" width="256" alt="My koi, redrawn daily from my GitHub activity" />
-</p>
+<br>
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="koi/koi.gif" width="256" alt="My koi, redrawn daily from my GitHub activity" />
+      </td>
+    </tr>
+  </table>
+</div>
