@@ -1,8 +1,5 @@
 <h2> Hey there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
- <!--  <img src="assets/rebecca-beer.jpeg" alt="Rebecca Beer" width="350" height="300" style="object-fit: cover;" /> -->
-
-
 ### A little bit about me...
 
 💻 I'm Anson, a Computer Engineering student @ UBC 
@@ -10,8 +7,6 @@
 🇭🇰 I was born in Hong Kong, but was raised in Australia for 15 years 
 <br>
 🎾 I love playing racket sports such as badminton, tennis, table tennis, and even pickleball 
-<br>
-🦾 Dystopian fiction, particularly the cyberpunk genre, is my favorite (by far)
 <hr>
 
 ### Currently...
@@ -25,6 +20,6 @@
 - Email: ansonnchan95@gmail.com
 - Personal Website: [ansonnchan.dev](https://www.ansonnchan.dev/)
 
-
-
-
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi, redrawn daily from my GitHub activity" />
+</p>
