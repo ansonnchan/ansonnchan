@@ -12,7 +12,7 @@
 ### Currently...
 - A software engineering intern @ ScalePad 🌱
 - A software dev @ UBC Launch Pad  <!-- Attach a link to the Figma for SWE Project  --> 
-- Reading "*Kafka on the Shore* (海辺のカフカ)"  by Haruki Murakami (村上 春樹)   
+- Building this really cool project (won't tell u yet 😏) 
 
 
 ### Find Me Here...
