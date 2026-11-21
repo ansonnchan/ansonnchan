@@ -11,8 +11,8 @@
 
 ### Currently...
 - A software engineering intern @ ScalePad 🌱
-- A software dev @ UBC Launch Pad  <!-- Attach a link to the Figma for SWE Project  --> 
-- Building this really cool project (won't tell u yet 😏) 
+- A software dev @ UBC Launch Pad  
+- Learning Mandarin and how to cook 😔
 
 
 ### Find Me Here...
